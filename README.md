@@ -1,2 +1,2 @@
 # HELLO-GITHUB
-TRIAL
+This is my first repisitory
